@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Development\\CSharp-OOP-Basic\\01.DefiningClasses-Exercise\\01.DefineClassPerson\\01.DefineClassPerson.csproj",
+      "projectUniqueName": "C:\\Development\\CSharp-OOP-Basic\\DefiningClasses-Exercise\\01.DefineClassPerson\\01.DefineClassPerson.csproj",
       "projectName": "01.DefineClassPerson",
-      "projectPath": "C:\\Development\\CSharp-OOP-Basic\\01.DefiningClasses-Exercise\\01.DefineClassPerson\\01.DefineClassPerson.csproj",
+      "projectPath": "C:\\Development\\CSharp-OOP-Basic\\DefiningClasses-Exercise\\01.DefineClassPerson\\01.DefineClassPerson.csproj",
       "packagesPath": "C:\\Users\\pmyor\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\CSharp-OOP-Basic\\01.DefiningClasses-Exercise\\01.DefineClassPerson\\obj\\",
+      "outputPath": "C:\\Development\\CSharp-OOP-Basic\\DefiningClasses-Exercise\\01.DefineClassPerson\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
