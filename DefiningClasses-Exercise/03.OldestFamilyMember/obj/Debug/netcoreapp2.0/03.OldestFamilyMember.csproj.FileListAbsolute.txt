@@ -1,0 +1,10 @@
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\03.OldestFamilyMember\bin\Debug\netcoreapp2.0\03.OldestFamilyMember.deps.json
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\03.OldestFamilyMember\bin\Debug\netcoreapp2.0\03.OldestFamilyMember.runtimeconfig.json
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\03.OldestFamilyMember\bin\Debug\netcoreapp2.0\03.OldestFamilyMember.runtimeconfig.dev.json
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\03.OldestFamilyMember\bin\Debug\netcoreapp2.0\03.OldestFamilyMember.dll
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\03.OldestFamilyMember\bin\Debug\netcoreapp2.0\03.OldestFamilyMember.pdb
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp2.0\03.OldestFamilyMember.csproj.CoreCompileInputs.cache
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp2.0\03.OldestFamilyMember.AssemblyInfoInputs.cache
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp2.0\03.OldestFamilyMember.AssemblyInfo.cs
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp2.0\03.OldestFamilyMember.dll
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp2.0\03.OldestFamilyMember.pdb
