@@ -1,0 +1,11 @@
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\06.CompanyRoster\bin\Debug\netcoreapp2.0\06.CompanyRoster.deps.json
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\06.CompanyRoster\bin\Debug\netcoreapp2.0\06.CompanyRoster.runtimeconfig.json
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\06.CompanyRoster\bin\Debug\netcoreapp2.0\06.CompanyRoster.runtimeconfig.dev.json
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\06.CompanyRoster\bin\Debug\netcoreapp2.0\06.CompanyRoster.dll
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\06.CompanyRoster\bin\Debug\netcoreapp2.0\06.CompanyRoster.pdb
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\06.CompanyRoster\obj\Debug\netcoreapp2.0\06.CompanyRoster.csprojResolveAssemblyReference.cache
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\06.CompanyRoster\obj\Debug\netcoreapp2.0\06.CompanyRoster.csproj.CoreCompileInputs.cache
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\06.CompanyRoster\obj\Debug\netcoreapp2.0\06.CompanyRoster.AssemblyInfoInputs.cache
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\06.CompanyRoster\obj\Debug\netcoreapp2.0\06.CompanyRoster.AssemblyInfo.cs
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\06.CompanyRoster\obj\Debug\netcoreapp2.0\06.CompanyRoster.dll
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\06.CompanyRoster\obj\Debug\netcoreapp2.0\06.CompanyRoster.pdb
