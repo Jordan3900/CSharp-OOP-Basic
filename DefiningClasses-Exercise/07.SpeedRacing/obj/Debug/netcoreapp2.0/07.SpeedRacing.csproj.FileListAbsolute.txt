@@ -1,0 +1,11 @@
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\07.SpeedRacing\bin\Debug\netcoreapp2.0\07.SpeedRacing.deps.json
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\07.SpeedRacing\bin\Debug\netcoreapp2.0\07.SpeedRacing.runtimeconfig.json
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\07.SpeedRacing\bin\Debug\netcoreapp2.0\07.SpeedRacing.runtimeconfig.dev.json
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\07.SpeedRacing\bin\Debug\netcoreapp2.0\07.SpeedRacing.dll
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\07.SpeedRacing\bin\Debug\netcoreapp2.0\07.SpeedRacing.pdb
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\07.SpeedRacing\obj\Debug\netcoreapp2.0\07.SpeedRacing.csprojResolveAssemblyReference.cache
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\07.SpeedRacing\obj\Debug\netcoreapp2.0\07.SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\07.SpeedRacing\obj\Debug\netcoreapp2.0\07.SpeedRacing.AssemblyInfoInputs.cache
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\07.SpeedRacing\obj\Debug\netcoreapp2.0\07.SpeedRacing.AssemblyInfo.cs
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\07.SpeedRacing\obj\Debug\netcoreapp2.0\07.SpeedRacing.dll
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\07.SpeedRacing\obj\Debug\netcoreapp2.0\07.SpeedRacing.pdb
