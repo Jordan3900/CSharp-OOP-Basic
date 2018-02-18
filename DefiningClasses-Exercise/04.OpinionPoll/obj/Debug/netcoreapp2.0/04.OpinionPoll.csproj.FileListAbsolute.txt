@@ -8,3 +8,4 @@ C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\04.OpinionPoll\obj\Debu
 C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\04.OpinionPoll\obj\Debug\netcoreapp2.0\04.OpinionPoll.AssemblyInfo.cs
 C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\04.OpinionPoll\obj\Debug\netcoreapp2.0\04.OpinionPoll.dll
 C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\04.OpinionPoll\obj\Debug\netcoreapp2.0\04.OpinionPoll.pdb
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\04.OpinionPoll\obj\Debug\netcoreapp2.0\04.OpinionPoll.csprojResolveAssemblyReference.cache

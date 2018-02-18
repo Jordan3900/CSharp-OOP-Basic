@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.SpeedRacing", "07.SpeedR
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.RawData", "08.RawData\08.RawData.csproj", "{BA8E32CC-0064-414F-83A5-3E5E348B67DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.RectangleIntersection", "09.RectangleIntersection\09.RectangleIntersection.csproj", "{E4D24BEB-04CE-4985-9B69-EA4A334362B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.RectangleIntersection", "09.RectangleIntersection\09.RectangleIntersection.csproj", "{E4D24BEB-04CE-4985-9B69-EA4A334362B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.CarSalesMan", "10.CarSalesMan\10.CarSalesMan.csproj", "{A757D0EE-8311-43B5-A344-C5C512FAF3AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{E4D24BEB-04CE-4985-9B69-EA4A334362B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4D24BEB-04CE-4985-9B69-EA4A334362B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4D24BEB-04CE-4985-9B69-EA4A334362B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A757D0EE-8311-43B5-A344-C5C512FAF3AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A757D0EE-8311-43B5-A344-C5C512FAF3AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A757D0EE-8311-43B5-A344-C5C512FAF3AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A757D0EE-8311-43B5-A344-C5C512FAF3AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

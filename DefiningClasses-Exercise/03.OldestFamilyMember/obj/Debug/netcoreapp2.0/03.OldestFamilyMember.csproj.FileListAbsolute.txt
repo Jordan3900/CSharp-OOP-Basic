@@ -8,3 +8,4 @@ C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\03.OldestFamilyMember\o
 C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp2.0\03.OldestFamilyMember.AssemblyInfo.cs
 C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp2.0\03.OldestFamilyMember.dll
 C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp2.0\03.OldestFamilyMember.pdb
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\03.OldestFamilyMember\obj\Debug\netcoreapp2.0\03.OldestFamilyMember.csprojResolveAssemblyReference.cache
