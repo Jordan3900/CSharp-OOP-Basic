@@ -1,0 +1,11 @@
+C:\Development\CSharp-OOP-Basic\Encapsulation-Exercises\03.ShoppingSpree\bin\Debug\netcoreapp2.0\03.ShoppingSpree.deps.json
+C:\Development\CSharp-OOP-Basic\Encapsulation-Exercises\03.ShoppingSpree\bin\Debug\netcoreapp2.0\03.ShoppingSpree.runtimeconfig.json
+C:\Development\CSharp-OOP-Basic\Encapsulation-Exercises\03.ShoppingSpree\bin\Debug\netcoreapp2.0\03.ShoppingSpree.runtimeconfig.dev.json
+C:\Development\CSharp-OOP-Basic\Encapsulation-Exercises\03.ShoppingSpree\bin\Debug\netcoreapp2.0\03.ShoppingSpree.dll
+C:\Development\CSharp-OOP-Basic\Encapsulation-Exercises\03.ShoppingSpree\bin\Debug\netcoreapp2.0\03.ShoppingSpree.pdb
+C:\Development\CSharp-OOP-Basic\Encapsulation-Exercises\03.ShoppingSpree\obj\Debug\netcoreapp2.0\03.ShoppingSpree.csprojResolveAssemblyReference.cache
+C:\Development\CSharp-OOP-Basic\Encapsulation-Exercises\03.ShoppingSpree\obj\Debug\netcoreapp2.0\03.ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Development\CSharp-OOP-Basic\Encapsulation-Exercises\03.ShoppingSpree\obj\Debug\netcoreapp2.0\03.ShoppingSpree.AssemblyInfoInputs.cache
+C:\Development\CSharp-OOP-Basic\Encapsulation-Exercises\03.ShoppingSpree\obj\Debug\netcoreapp2.0\03.ShoppingSpree.AssemblyInfo.cs
+C:\Development\CSharp-OOP-Basic\Encapsulation-Exercises\03.ShoppingSpree\obj\Debug\netcoreapp2.0\03.ShoppingSpree.dll
+C:\Development\CSharp-OOP-Basic\Encapsulation-Exercises\03.ShoppingSpree\obj\Debug\netcoreapp2.0\03.ShoppingSpree.pdb

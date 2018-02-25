@@ -1,0 +1,11 @@
+C:\Development\CSharp-OOP-Basic\Encapsulation-Exercises\02.AnimalFarm\bin\Debug\netcoreapp2.0\02.AnimalFarm.deps.json
+C:\Development\CSharp-OOP-Basic\Encapsulation-Exercises\02.AnimalFarm\bin\Debug\netcoreapp2.0\02.AnimalFarm.runtimeconfig.json
+C:\Development\CSharp-OOP-Basic\Encapsulation-Exercises\02.AnimalFarm\bin\Debug\netcoreapp2.0\02.AnimalFarm.runtimeconfig.dev.json
+C:\Development\CSharp-OOP-Basic\Encapsulation-Exercises\02.AnimalFarm\bin\Debug\netcoreapp2.0\02.AnimalFarm.dll
+C:\Development\CSharp-OOP-Basic\Encapsulation-Exercises\02.AnimalFarm\bin\Debug\netcoreapp2.0\02.AnimalFarm.pdb
+C:\Development\CSharp-OOP-Basic\Encapsulation-Exercises\02.AnimalFarm\obj\Debug\netcoreapp2.0\02.AnimalFarm.csprojResolveAssemblyReference.cache
+C:\Development\CSharp-OOP-Basic\Encapsulation-Exercises\02.AnimalFarm\obj\Debug\netcoreapp2.0\02.AnimalFarm.csproj.CoreCompileInputs.cache
+C:\Development\CSharp-OOP-Basic\Encapsulation-Exercises\02.AnimalFarm\obj\Debug\netcoreapp2.0\02.AnimalFarm.AssemblyInfoInputs.cache
+C:\Development\CSharp-OOP-Basic\Encapsulation-Exercises\02.AnimalFarm\obj\Debug\netcoreapp2.0\02.AnimalFarm.AssemblyInfo.cs
+C:\Development\CSharp-OOP-Basic\Encapsulation-Exercises\02.AnimalFarm\obj\Debug\netcoreapp2.0\02.AnimalFarm.dll
+C:\Development\CSharp-OOP-Basic\Encapsulation-Exercises\02.AnimalFarm\obj\Debug\netcoreapp2.0\02.AnimalFarm.pdb
