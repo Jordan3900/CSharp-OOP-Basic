@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Linq;
 
-public class Team
+public class Team 
 {
     private string name;
     private List<Player> players;
