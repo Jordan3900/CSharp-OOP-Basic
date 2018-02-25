@@ -1,0 +1,11 @@
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\13.FamilyTree\bin\Debug\netcoreapp2.0\13.FamilyTree.deps.json
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\13.FamilyTree\bin\Debug\netcoreapp2.0\13.FamilyTree.runtimeconfig.json
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\13.FamilyTree\bin\Debug\netcoreapp2.0\13.FamilyTree.runtimeconfig.dev.json
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\13.FamilyTree\bin\Debug\netcoreapp2.0\13.FamilyTree.dll
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\13.FamilyTree\bin\Debug\netcoreapp2.0\13.FamilyTree.pdb
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\13.FamilyTree\obj\Debug\netcoreapp2.0\13.FamilyTree.csprojResolveAssemblyReference.cache
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\13.FamilyTree\obj\Debug\netcoreapp2.0\13.FamilyTree.csproj.CoreCompileInputs.cache
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\13.FamilyTree\obj\Debug\netcoreapp2.0\13.FamilyTree.AssemblyInfoInputs.cache
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\13.FamilyTree\obj\Debug\netcoreapp2.0\13.FamilyTree.AssemblyInfo.cs
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\13.FamilyTree\obj\Debug\netcoreapp2.0\13.FamilyTree.dll
+C:\Development\CSharp-OOP-Basic\DefiningClasses-Exercise\13.FamilyTree\obj\Debug\netcoreapp2.0\13.FamilyTree.pdb
