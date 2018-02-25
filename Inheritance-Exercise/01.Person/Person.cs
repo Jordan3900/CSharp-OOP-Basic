@@ -9,7 +9,7 @@ public class Person
     private string name;
     private int age;
 
-    public string Name
+    public virtual string Name
     {
         get => this.name;
         set
@@ -22,10 +22,10 @@ public class Person
         }
     }
 
-    public int Age
+    public virtual int Age
     {
         get => this.age;
-        set
+      protected  set
         {
             if (value < 0)
             {
@@ -38,6 +38,12 @@ public class Person
     {
         this.Name = name;
         this.Age = age;
+    }
+    public override string ToString()
+    {
+        var stringBuilder = new StringBuilder();
+        stringBuilder.Append(string.Format($"Name: {this.Name}, Age: {this.Age}"));
+        return stringBuilder.ToString();
     }
 }
 
