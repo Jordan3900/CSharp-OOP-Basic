@@ -1,0 +1,11 @@
+C:\Development\CSharp-OOP-Basic\Inheritance-Exercise\05.MordorCruelPlan\bin\Debug\netcoreapp2.0\05.MordorCruelPlan.deps.json
+C:\Development\CSharp-OOP-Basic\Inheritance-Exercise\05.MordorCruelPlan\bin\Debug\netcoreapp2.0\05.MordorCruelPlan.runtimeconfig.json
+C:\Development\CSharp-OOP-Basic\Inheritance-Exercise\05.MordorCruelPlan\bin\Debug\netcoreapp2.0\05.MordorCruelPlan.runtimeconfig.dev.json
+C:\Development\CSharp-OOP-Basic\Inheritance-Exercise\05.MordorCruelPlan\bin\Debug\netcoreapp2.0\05.MordorCruelPlan.dll
+C:\Development\CSharp-OOP-Basic\Inheritance-Exercise\05.MordorCruelPlan\bin\Debug\netcoreapp2.0\05.MordorCruelPlan.pdb
+C:\Development\CSharp-OOP-Basic\Inheritance-Exercise\05.MordorCruelPlan\obj\Debug\netcoreapp2.0\05.MordorCruelPlan.csprojResolveAssemblyReference.cache
+C:\Development\CSharp-OOP-Basic\Inheritance-Exercise\05.MordorCruelPlan\obj\Debug\netcoreapp2.0\05.MordorCruelPlan.csproj.CoreCompileInputs.cache
+C:\Development\CSharp-OOP-Basic\Inheritance-Exercise\05.MordorCruelPlan\obj\Debug\netcoreapp2.0\05.MordorCruelPlan.AssemblyInfoInputs.cache
+C:\Development\CSharp-OOP-Basic\Inheritance-Exercise\05.MordorCruelPlan\obj\Debug\netcoreapp2.0\05.MordorCruelPlan.AssemblyInfo.cs
+C:\Development\CSharp-OOP-Basic\Inheritance-Exercise\05.MordorCruelPlan\obj\Debug\netcoreapp2.0\05.MordorCruelPlan.dll
+C:\Development\CSharp-OOP-Basic\Inheritance-Exercise\05.MordorCruelPlan\obj\Debug\netcoreapp2.0\05.MordorCruelPlan.pdb

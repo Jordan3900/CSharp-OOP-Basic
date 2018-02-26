@@ -1,0 +1,11 @@
+C:\Development\CSharp-OOP-Basic\Inheritance-Exercise\04.OnlineRadioStation\bin\Debug\netcoreapp2.0\04.OnlineRadioStation.deps.json
+C:\Development\CSharp-OOP-Basic\Inheritance-Exercise\04.OnlineRadioStation\bin\Debug\netcoreapp2.0\04.OnlineRadioStation.runtimeconfig.json
+C:\Development\CSharp-OOP-Basic\Inheritance-Exercise\04.OnlineRadioStation\bin\Debug\netcoreapp2.0\04.OnlineRadioStation.runtimeconfig.dev.json
+C:\Development\CSharp-OOP-Basic\Inheritance-Exercise\04.OnlineRadioStation\bin\Debug\netcoreapp2.0\04.OnlineRadioStation.dll
+C:\Development\CSharp-OOP-Basic\Inheritance-Exercise\04.OnlineRadioStation\bin\Debug\netcoreapp2.0\04.OnlineRadioStation.pdb
+C:\Development\CSharp-OOP-Basic\Inheritance-Exercise\04.OnlineRadioStation\obj\Debug\netcoreapp2.0\04.OnlineRadioStation.csprojResolveAssemblyReference.cache
+C:\Development\CSharp-OOP-Basic\Inheritance-Exercise\04.OnlineRadioStation\obj\Debug\netcoreapp2.0\04.OnlineRadioStation.csproj.CoreCompileInputs.cache
+C:\Development\CSharp-OOP-Basic\Inheritance-Exercise\04.OnlineRadioStation\obj\Debug\netcoreapp2.0\04.OnlineRadioStation.AssemblyInfoInputs.cache
+C:\Development\CSharp-OOP-Basic\Inheritance-Exercise\04.OnlineRadioStation\obj\Debug\netcoreapp2.0\04.OnlineRadioStation.AssemblyInfo.cs
+C:\Development\CSharp-OOP-Basic\Inheritance-Exercise\04.OnlineRadioStation\obj\Debug\netcoreapp2.0\04.OnlineRadioStation.dll
+C:\Development\CSharp-OOP-Basic\Inheritance-Exercise\04.OnlineRadioStation\obj\Debug\netcoreapp2.0\04.OnlineRadioStation.pdb
