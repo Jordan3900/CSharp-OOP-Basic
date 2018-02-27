@@ -1,0 +1,11 @@
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\04.Telephony\bin\Debug\netcoreapp2.0\04.Telephony.deps.json
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\04.Telephony\bin\Debug\netcoreapp2.0\04.Telephony.runtimeconfig.json
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\04.Telephony\bin\Debug\netcoreapp2.0\04.Telephony.runtimeconfig.dev.json
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\04.Telephony\bin\Debug\netcoreapp2.0\04.Telephony.dll
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\04.Telephony\bin\Debug\netcoreapp2.0\04.Telephony.pdb
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\04.Telephony\obj\Debug\netcoreapp2.0\04.Telephony.csprojResolveAssemblyReference.cache
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\04.Telephony\obj\Debug\netcoreapp2.0\04.Telephony.csproj.CoreCompileInputs.cache
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\04.Telephony\obj\Debug\netcoreapp2.0\04.Telephony.AssemblyInfoInputs.cache
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\04.Telephony\obj\Debug\netcoreapp2.0\04.Telephony.AssemblyInfo.cs
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\04.Telephony\obj\Debug\netcoreapp2.0\04.Telephony.dll
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\04.Telephony\obj\Debug\netcoreapp2.0\04.Telephony.pdb
