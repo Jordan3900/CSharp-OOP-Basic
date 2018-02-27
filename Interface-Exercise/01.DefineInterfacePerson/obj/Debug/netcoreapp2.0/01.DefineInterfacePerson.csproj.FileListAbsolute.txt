@@ -1,0 +1,11 @@
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\01.DefineInterfacePerson\bin\Debug\netcoreapp2.0\01.DefineInterfacePerson.deps.json
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\01.DefineInterfacePerson\bin\Debug\netcoreapp2.0\01.DefineInterfacePerson.runtimeconfig.json
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\01.DefineInterfacePerson\bin\Debug\netcoreapp2.0\01.DefineInterfacePerson.runtimeconfig.dev.json
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\01.DefineInterfacePerson\bin\Debug\netcoreapp2.0\01.DefineInterfacePerson.dll
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\01.DefineInterfacePerson\bin\Debug\netcoreapp2.0\01.DefineInterfacePerson.pdb
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\01.DefineInterfacePerson\obj\Debug\netcoreapp2.0\01.DefineInterfacePerson.csprojResolveAssemblyReference.cache
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\01.DefineInterfacePerson\obj\Debug\netcoreapp2.0\01.DefineInterfacePerson.csproj.CoreCompileInputs.cache
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\01.DefineInterfacePerson\obj\Debug\netcoreapp2.0\01.DefineInterfacePerson.AssemblyInfoInputs.cache
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\01.DefineInterfacePerson\obj\Debug\netcoreapp2.0\01.DefineInterfacePerson.AssemblyInfo.cs
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\01.DefineInterfacePerson\obj\Debug\netcoreapp2.0\01.DefineInterfacePerson.dll
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\01.DefineInterfacePerson\obj\Debug\netcoreapp2.0\01.DefineInterfacePerson.pdb
