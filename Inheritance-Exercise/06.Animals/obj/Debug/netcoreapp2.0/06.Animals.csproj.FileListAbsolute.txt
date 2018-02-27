@@ -1,0 +1,11 @@
+C:\Development\CSharp-OOP-Basic\Inheritance-Exercise\06.Animals\obj\Debug\netcoreapp2.0\06.Animals.csprojResolveAssemblyReference.cache
+C:\Development\CSharp-OOP-Basic\Inheritance-Exercise\06.Animals\obj\Debug\netcoreapp2.0\06.Animals.csproj.CoreCompileInputs.cache
+C:\Development\CSharp-OOP-Basic\Inheritance-Exercise\06.Animals\obj\Debug\netcoreapp2.0\06.Animals.AssemblyInfoInputs.cache
+C:\Development\CSharp-OOP-Basic\Inheritance-Exercise\06.Animals\obj\Debug\netcoreapp2.0\06.Animals.AssemblyInfo.cs
+C:\Development\CSharp-OOP-Basic\Inheritance-Exercise\06.Animals\bin\Debug\netcoreapp2.0\06.Animals.deps.json
+C:\Development\CSharp-OOP-Basic\Inheritance-Exercise\06.Animals\bin\Debug\netcoreapp2.0\06.Animals.runtimeconfig.json
+C:\Development\CSharp-OOP-Basic\Inheritance-Exercise\06.Animals\bin\Debug\netcoreapp2.0\06.Animals.runtimeconfig.dev.json
+C:\Development\CSharp-OOP-Basic\Inheritance-Exercise\06.Animals\bin\Debug\netcoreapp2.0\06.Animals.dll
+C:\Development\CSharp-OOP-Basic\Inheritance-Exercise\06.Animals\bin\Debug\netcoreapp2.0\06.Animals.pdb
+C:\Development\CSharp-OOP-Basic\Inheritance-Exercise\06.Animals\obj\Debug\netcoreapp2.0\06.Animals.dll
+C:\Development\CSharp-OOP-Basic\Inheritance-Exercise\06.Animals\obj\Debug\netcoreapp2.0\06.Animals.pdb
