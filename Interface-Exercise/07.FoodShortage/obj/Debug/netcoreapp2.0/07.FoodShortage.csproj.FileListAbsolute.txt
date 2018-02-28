@@ -1,0 +1,11 @@
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\07.FoodShortage\bin\Debug\netcoreapp2.0\07.FoodShortage.deps.json
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\07.FoodShortage\bin\Debug\netcoreapp2.0\07.FoodShortage.runtimeconfig.json
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\07.FoodShortage\bin\Debug\netcoreapp2.0\07.FoodShortage.runtimeconfig.dev.json
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\07.FoodShortage\bin\Debug\netcoreapp2.0\07.FoodShortage.dll
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\07.FoodShortage\bin\Debug\netcoreapp2.0\07.FoodShortage.pdb
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\07.FoodShortage\obj\Debug\netcoreapp2.0\07.FoodShortage.csprojResolveAssemblyReference.cache
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\07.FoodShortage\obj\Debug\netcoreapp2.0\07.FoodShortage.csproj.CoreCompileInputs.cache
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\07.FoodShortage\obj\Debug\netcoreapp2.0\07.FoodShortage.AssemblyInfoInputs.cache
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\07.FoodShortage\obj\Debug\netcoreapp2.0\07.FoodShortage.AssemblyInfo.cs
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\07.FoodShortage\obj\Debug\netcoreapp2.0\07.FoodShortage.dll
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\07.FoodShortage\obj\Debug\netcoreapp2.0\07.FoodShortage.pdb

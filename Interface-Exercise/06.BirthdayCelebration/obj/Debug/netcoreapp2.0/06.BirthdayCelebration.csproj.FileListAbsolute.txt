@@ -1,0 +1,11 @@
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\06.BirthdayCelebration\bin\Debug\netcoreapp2.0\06.BirthdayCelebration.deps.json
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\06.BirthdayCelebration\bin\Debug\netcoreapp2.0\06.BirthdayCelebration.runtimeconfig.json
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\06.BirthdayCelebration\bin\Debug\netcoreapp2.0\06.BirthdayCelebration.runtimeconfig.dev.json
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\06.BirthdayCelebration\bin\Debug\netcoreapp2.0\06.BirthdayCelebration.dll
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\06.BirthdayCelebration\bin\Debug\netcoreapp2.0\06.BirthdayCelebration.pdb
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\06.BirthdayCelebration\obj\Debug\netcoreapp2.0\06.BirthdayCelebration.csprojResolveAssemblyReference.cache
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\06.BirthdayCelebration\obj\Debug\netcoreapp2.0\06.BirthdayCelebration.csproj.CoreCompileInputs.cache
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\06.BirthdayCelebration\obj\Debug\netcoreapp2.0\06.BirthdayCelebration.AssemblyInfoInputs.cache
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\06.BirthdayCelebration\obj\Debug\netcoreapp2.0\06.BirthdayCelebration.AssemblyInfo.cs
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\06.BirthdayCelebration\obj\Debug\netcoreapp2.0\06.BirthdayCelebration.dll
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\06.BirthdayCelebration\obj\Debug\netcoreapp2.0\06.BirthdayCelebration.pdb
