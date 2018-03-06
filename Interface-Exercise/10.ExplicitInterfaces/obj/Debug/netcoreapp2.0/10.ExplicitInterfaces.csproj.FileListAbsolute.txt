@@ -1,0 +1,11 @@
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.deps.json
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.runtimeconfig.json
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.runtimeconfig.dev.json
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.dll
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.pdb
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.csprojResolveAssemblyReference.cache
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.csproj.CoreCompileInputs.cache
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.AssemblyInfoInputs.cache
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.AssemblyInfo.cs
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.dll
+C:\Development\CSharp-OOP-Basic\Interface-Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.pdb
