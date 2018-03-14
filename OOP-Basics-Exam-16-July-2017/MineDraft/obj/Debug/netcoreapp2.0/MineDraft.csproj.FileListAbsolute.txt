@@ -1,0 +1,11 @@
+C:\Development\CSharp-OOP-Basic\OOP-Basics-Exam-16-July-2017\MineDraft\bin\Debug\netcoreapp2.0\MineDraft.deps.json
+C:\Development\CSharp-OOP-Basic\OOP-Basics-Exam-16-July-2017\MineDraft\bin\Debug\netcoreapp2.0\MineDraft.runtimeconfig.json
+C:\Development\CSharp-OOP-Basic\OOP-Basics-Exam-16-July-2017\MineDraft\bin\Debug\netcoreapp2.0\MineDraft.runtimeconfig.dev.json
+C:\Development\CSharp-OOP-Basic\OOP-Basics-Exam-16-July-2017\MineDraft\bin\Debug\netcoreapp2.0\MineDraft.dll
+C:\Development\CSharp-OOP-Basic\OOP-Basics-Exam-16-July-2017\MineDraft\bin\Debug\netcoreapp2.0\MineDraft.pdb
+C:\Development\CSharp-OOP-Basic\OOP-Basics-Exam-16-July-2017\MineDraft\obj\Debug\netcoreapp2.0\MineDraft.csprojResolveAssemblyReference.cache
+C:\Development\CSharp-OOP-Basic\OOP-Basics-Exam-16-July-2017\MineDraft\obj\Debug\netcoreapp2.0\MineDraft.csproj.CoreCompileInputs.cache
+C:\Development\CSharp-OOP-Basic\OOP-Basics-Exam-16-July-2017\MineDraft\obj\Debug\netcoreapp2.0\MineDraft.AssemblyInfoInputs.cache
+C:\Development\CSharp-OOP-Basic\OOP-Basics-Exam-16-July-2017\MineDraft\obj\Debug\netcoreapp2.0\MineDraft.AssemblyInfo.cs
+C:\Development\CSharp-OOP-Basic\OOP-Basics-Exam-16-July-2017\MineDraft\obj\Debug\netcoreapp2.0\MineDraft.dll
+C:\Development\CSharp-OOP-Basic\OOP-Basics-Exam-16-July-2017\MineDraft\obj\Debug\netcoreapp2.0\MineDraft.pdb
