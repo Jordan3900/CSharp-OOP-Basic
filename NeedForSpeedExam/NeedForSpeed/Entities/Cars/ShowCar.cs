@@ -33,7 +33,7 @@ public class ShowCar : Car
             .AppendLine($"{Suspension} Suspension force, {Durability} Durability")
             .AppendLine($"{Stars} *");
 
-        return builder.ToString(); ;
+        return builder.ToString().Trim(); 
     }
 
 }

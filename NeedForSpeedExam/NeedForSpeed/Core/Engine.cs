@@ -42,7 +42,7 @@ public class Engine
                     carManager.Register(id, type, brand, model, year, horseP, accelaration, suspension, durability);
                     break;
                 case "check":
-                    Console.Write(carManager.Check(int.Parse(args[0])));
+                    Console.WriteLine(carManager.Check(int.Parse(args[0])));
                     break;
                 case "open":
                     var raceId = int.Parse(args[0]);
@@ -69,7 +69,7 @@ public class Engine
                     carManager.Tune(int.Parse(args[0]), args[1]);
                     break;
                 case "start":
-                    Console.Write(carManager.Start(int.Parse(args[0]))); 
+                    Console.WriteLine(carManager.Start(int.Parse(args[0]))); 
                         break;
                 default:
                     break;

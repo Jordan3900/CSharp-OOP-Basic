@@ -29,7 +29,7 @@ public class PerformanceCar : Car
             .AppendLine($"{Suspension} Suspension force, {Durability} Durability")
             .AppendLine($"Add-ons: {additional}");
 
-        return builder.ToString(); ;
+        return builder.ToString().Trim(); 
     }
 
 }

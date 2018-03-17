@@ -44,10 +44,10 @@ public class DriftRace : Race
         }
         else
         {
-            builder.AppendLine("Cannot start the race with zero participants");
+            builder.AppendLine("Cannot start the race with zero participants.");
         }
         this.IsOpen = false;
-        return builder.ToString();
+        return builder.ToString().Trim();
     }
 }
 
